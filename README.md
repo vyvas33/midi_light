@@ -2,7 +2,7 @@
 Creates a dynamic fullscreen lighting wash that responds to MIDI input, displaying color fills that fade based on note velocity and duration.
 
 ## Why?
-I love concert lighting. I doubt that if you just had music playing, people would enjoy it in this era. People look for “vibe”, so do I.
+Concert Lighting.
 
 I made this (or asked Gemini to) to have a cheap (or free) alternative to that kind of lighting at home. Just connect a monitor (or two) and you’re good to go. Even better if you have projectors.
 
